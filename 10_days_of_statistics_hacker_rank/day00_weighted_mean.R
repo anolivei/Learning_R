@@ -1,6 +1,8 @@
 #Hacker Rank
 #10 Days of Statistics
 #Day00
+#weighted mean
+
 data <- scan("/dev/stdin")
 len <- data[1]
 numbers <- data[c(2:(len+1))]

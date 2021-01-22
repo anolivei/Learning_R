@@ -1,6 +1,7 @@
 #Hacker Rank
 #10 Days of Statistics
 #Day00
+#mean median and mode
 
 data <- scan("/dev/stdin")
 
@@ -16,11 +17,11 @@ MEDIAN <- median(x)
 cat(MEDIAN)
 cat('\n')
 
-getmode <- function(x)
+calc_mode <- function(x)
 {
     x <- sort(x)
     uniqx <- unique(x)
     uniqx[which.max(tabulate(match(x, uniqx)))]  
 }
-MODE <- getmode(x)
+MODE <- calc_mode(x)
 cat(MODE)
