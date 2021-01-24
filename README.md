@@ -9,4 +9,4 @@ There are two directories here:<br>
 - curso_verao_ime: about my on-line classes at Summer Courses in IME (Maths and Statistics Institute) at São Paulo University<br>
 (https://www.ime.usp.br/verao/index.php)<br>
 
-![R](https://icons.iconarchive.com/icons/blackvariant/button-ui-requests-5/1024/RStudio-icon.png)
+![R](https://icons.iconarchive.com/icons/blackvariant/button-ui-requests-5/256/RStudio-icon.png)
