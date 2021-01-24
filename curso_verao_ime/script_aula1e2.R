@@ -3,19 +3,7 @@
 # XLIX Programa De Verão (2021)
 # Nathália Demetrio, Geovana Lopes e Alex Kushima
 
-# link repo curso: https://docs.google.com/document/d/1VO-UO-Zt996Q-0RW9U0HADnWUlTuuKPVEOxAmUPHzCg/edit?usp=sharing
-# link form check in: https://forms.gle/xFviAH5Bo16itVNr7
-# link para o rstudiocloud: https://rstudio.cloud/
-
 # --- dias 1 e 2 
-
-# Apresentações  -----
-    #apresentação Nath, Geo e Alex
-    #de qual cidade vcs vem? 
-    #comentar form
-    #compartilhar agenda
-    #combinar dinamica das aulas
-
 
 # Contextualização  -----
     # https://www.r-project.org/
@@ -636,9 +624,3 @@
             #? onde esse csv está?
 
     #para consultar mais estatísticas: help(package=stats) 
-
-
-# :::::::::::: QUIZ 1 & Refs-----
-        
-    # Quiz:
-        # https://forms.gle/2Yoiy1tMQvLZ3k5d8
