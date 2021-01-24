@@ -3,10 +3,6 @@
 # XLIX Programa De Verão (2021)
 # Nathália Demetrio, Geovana Lopes e Alex Kushima
 
-# link repo curso: https://docs.google.com/document/d/1VO-UO-Zt996Q-0RW9U0HADnWUlTuuKPVEOxAmUPHzCg/edit?usp=sharing
-
-
-
 # --- dia 3 
 
 # Revisando - Estruturas de Dados -----
@@ -292,9 +288,6 @@
           
 # :::::::::::: QUIZ 2 & Refs -----
             
-  # Quiz: 
-    # https://forms.gle/n1PK4bnAvjr6fywD7
-            
   # Refs:
     # Rstudio Learn (material em inglês) 
       # https://rstudio.cloud/learn/primers/1.2
@@ -303,4 +296,3 @@
       # precisa instalar várias bibliotecas
       # install.packages("Rcmdr")
       # library(Rcmdr)
-            
