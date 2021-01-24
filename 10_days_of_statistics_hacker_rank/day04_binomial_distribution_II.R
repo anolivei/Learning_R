@@ -1,6 +1,6 @@
 #Hacker Rank
 #10 Days of Statistics
-#Day01
+#Day04
 #Binomial distribution II
 
 data <- scan("/dev/stdin")
